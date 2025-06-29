@@ -1,6 +1,13 @@
 # 🫁 Detecting Pneumonia Using Reinforcement Learning on Chest X-Rays
 
 This project is a web-based application that leverages Reinforcement Learning and Deep Learning to detect pneumonia from chest X-ray images. It uses a trained TensorFlow model and provides a user-friendly interface for image upload, prediction, and user history tracking.
+## 📌 Features
+
+- ✅ **User Authentication** – Secure login & registration system.
+- 📤 **Image Upload** – Upload chest X-ray images for diagnosis.
+- 🧠 **AI Prediction** – Pneumonia detection using a TensorFlow-trained model.
+- 📝 **User History** – Tracks previous image uploads and results.
+- 🌐 **Clean UI** – Responsive web interface with a seamless user experience.
 
 # Model Setup Instructions
 
