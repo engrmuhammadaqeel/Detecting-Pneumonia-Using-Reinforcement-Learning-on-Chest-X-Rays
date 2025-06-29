@@ -59,10 +59,10 @@ To run this project, you need to download the pre-trained model using the provid
 ## 🌐 3. Access the Web App
    - Once the server is running, follow the instructions displayed in the terminal to access the application in your web browser.
 ### 🔐 Features
-      ✅ User authentication and login system
-      📤 Upload chest X-ray images for prediction
-      🧠 Pneumonia detection via TensorFlow model
-      📝 History tracking of user uploads and results
-      📊 Clean UI for results visualization
+   - ✅ User authentication and login system
+   - 📤 Upload chest X-ray images for prediction
+   - 🧠 Pneumonia detection via TensorFlow model
+   - 📝 History tracking of user uploads and results
+   - 📊 Clean UI for results visualization
 
 
