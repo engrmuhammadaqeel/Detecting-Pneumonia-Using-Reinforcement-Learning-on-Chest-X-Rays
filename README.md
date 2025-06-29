@@ -18,7 +18,7 @@ To use this project, you need to download a pre-trained model from the given Goo
 To run this project, you need to download the pre-trained model using the provided Google Drive link and place it in the correct directory.
 
 ### 📥 1. Download the Model
-   - Click [here](https://drive.google.com/file/d/12UdrVDNnX-zuZ-7i0Pp9X7OTnXfI7sjt/view?usp=drive_link) to open the Google Drive link.
+   - Click [here] (https://drive.google.com/file/d/1EcHJP_wJo_eq1PUNVMN79wKLQkm2e3yx/view?usp=drive_link) to open the Google Drive link.
    - Click the **Download** button to save the file to your local system.
 
 ### 📁 2. Create the `models` Directory
