@@ -1,31 +1,34 @@
-# Plant-Disease-Recognition-System
-Plant Disease Recognition System
+# 🫁 Detecting Pneumonia Using Reinforcement Learning on Chest X-Rays
+
+This project is a web-based application that leverages Reinforcement Learning and Deep Learning to detect pneumonia from chest X-ray images. It uses a trained TensorFlow model and provides a user-friendly interface for image upload, prediction, and user history tracking.
 
 # Model Setup Instructions
 
 To use this project, you need to download a pre-trained model from the given Google Drive link and place it in the `models` directory. Follow the steps below to set it up correctly:
 
-## Steps to Download and Place the Model
+## 🔧 Model Setup Instructions
 
-1. **Download the Model**
-   - Click [here](https://drive.google.com/file/d/1Ond7UzrNOfdAXWedjlZr2sDXYU6MRBuj/view?usp=sharing) to open the Google Drive link.
+To run this project, you need to download the pre-trained model using the provided Google Drive link and place it in the correct directory.
+
+### 📥 1. Download the Model
+   - Click [here](https://drive.google.com/file/d/12UdrVDNnX-zuZ-7i0Pp9X7OTnXfI7sjt/view?usp=drive_link) to open the Google Drive link.
    - Click the **Download** button to save the file to your local system.
 
-2. **Create the Models Folder**
+### 📁 2. Create the `models` Directory
    - Navigate to the root directory of this project.
    - Create a folder named `models` if it does not already exist.
      ```bash
      mkdir models
      ```
 
-3. **Place the Model in the Folder**
-   - Move the downloaded file into the `models` directory.
+📦 3. Move the Model File
+   - Move the downloaded model file into the models folder:
      ```bash
      mv /path/to/downloaded/model models/
      ```
      Replace `/path/to/downloaded/model` with the actual path where you downloaded the file.
 
-4. **Verify the Setup**
+✅ 4. Verify Model Placement
    - Ensure that the model file is correctly placed in the `models` directory by listing the folder's contents:
      ```bash
      ls models
