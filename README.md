@@ -21,14 +21,14 @@ To run this project, you need to download the pre-trained model using the provid
      mkdir models
      ```
 
-###📦 3. Move the Model File
+### 📦 3. Move the Model File
    - Move the downloaded model file into the models folder:
      ```bash
      mv /path/to/downloaded/model models/
      ```
      Replace `/path/to/downloaded/model` with the actual path where you downloaded the file.
 
-###✅ 4. Verify Model Placement
+### ✅ 4. Verify Model Placement
    - Ensure that the model file is correctly placed in the `models` directory by listing the folder's contents:
      ```bash
      ls models
@@ -37,7 +37,7 @@ To run this project, you need to download the pre-trained model using the provid
 
 ### 🚀 Application UsageUsage
 
-##✏️ 1. Update app.py with Model Path
+## ✏️ 1. Update app.py with Model Path
    - Open the `app.py` file in a text editor.
    - Locate line 8, which contains the following code:
      ```python
@@ -49,12 +49,12 @@ To run this project, you need to download the pre-trained model using the provid
      ```
      Replace `your_model_file.keras` with the actual name of the model file you downloaded.
 
-##🖥️ 2. Run the Flask Server
+## 🖥️ 2. Run the Flask Server
    - Open a terminal and navigate to the root directory of this project.
    - Run the following command to start the server:
      ```bash
      python app.py
      ```
 
-##🌐 3. Access the Web App
+## 🌐 3. Access the Web App
    - Once the server is running, follow the instructions displayed in the terminal to access the application in your web browser.
